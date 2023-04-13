@@ -1,11 +1,10 @@
 # Overwatch Double Tap
 ODT is a simple AHK script that allows you to double tap a key to activate another key. This is useful for adding an extra keybind for characters with many abilities in their kit and allows the user to have this extra dimension of control without having to sacrifice a keybind.
 
-## Usage
-Do you have AutoHotKey v2 installed?
+# Usage
+The easiest way to use ODT is by downloading [the latest OverwatchDoubleTap.exe](https://github.com/lyricwulf/OverwatchDoubleTap/releases/latest/download/OverwatchDoubleTap.exe) and running it.
 
-- **NO or don't know:** You can download the `.exe` from [Releases](https://github.com/lyricwulf/OverwatchDoubleTap) and run it.
-- **YES:** You can download the `.ahk` and run it. 
+> If you have AHK v2 installed, you can also run the `.ahk` file in this repo.
 
 #### License
 
